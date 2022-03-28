@@ -1,5 +1,3 @@
-// const { Pool } = require('pg/lib');
-
 const Pool =  require('pg').Pool;
 
 const pool = new Pool({
